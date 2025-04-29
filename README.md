@@ -9,6 +9,12 @@ Follow the steps to run this:
 2. Set REACT_APP_API_BASE_URL in .env file.
 3. Go to terminal and run "npm start" to run the application.
 
+# Trade Portal
+Here you can add trades with BUY or SELL types.
+
+# Stock Portal
+Here you can see trades and lots created. They will update in response to sell or buy trades.
+
 # APIs
 
 This application has 2 controllers for trades and lots operations.
