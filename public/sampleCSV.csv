@@ -1,0 +1,6 @@
+stock_name,quantity,broker_name,price,type,sellType
+AAPL,100,BrokerX,150.5,BUY,NA
+AAPL,50,BrokerY,2800,SELL,LIFO
+AAPL,200,BrokerZ,310.75,BUY,NA
+AAPL,120,BrokerX,700.2,SELL,FIFO
+AAPL,80,BrokerY,390.1,BUY,NA
